@@ -5,7 +5,9 @@ Calculadora de IMC foi um aplicativo que desenvolvi para dar meus primeiros pass
 
 ## :camera_flash: Screenshots
 <!-- You can add more screenshots here if you like -->
-<img src="/result/image1.png" width="260">&emsp;<img src="/result/image2.png" width="260">&emsp;<img src="/result/image3.png" width="260">
+![image1](https://github.com/DouglasCruzSS/PrimeiroProjeto/assets/148147539/0c34811b-503d-4675-83d0-d339be908bae)
+![image2](https://github.com/DouglasCruzSS/PrimeiroProjeto/assets/148147539/35b89aee-03c1-425d-87d5-273e2dc560e8)
+![image3](https://github.com/DouglasCruzSS/PrimeiroProjeto/assets/148147539/ad9f7ce1-2357-436c-9499-24ccef450003)
 
 
 
