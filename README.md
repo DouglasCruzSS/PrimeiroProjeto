@@ -9,7 +9,6 @@ Calculadora de IMC foi um aplicativo que desenvolvi para dar meus primeiros pass
 
 
 
-
 ## Tecnologias
 * Kotlin
 * Activity para host de telas
